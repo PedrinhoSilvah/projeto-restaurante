@@ -1,0 +1,53 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+.navbar{
+    background-color: #e15f41;
+}
+
+.nav .nav-link.active{
+    background-color: #fff;
+    color: #e15f41;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover{
+    color: #fff;
+}
+
+.navbar-toggler{
+    background-color: #ffeae6;
+}
+.corretor{
+    height: 500px;
+    width: 100%;
+}
+.section-title{
+    font-family: Pacifico, cursive;
+}
+
+#sobre-o-restaurante{
+    background-color: #ffeae6;
+}
+
+.text-colered{
+    color: #e15f41;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 767px) {
+    .navbar-collapse{
+        padding-top: 20px;
+    }
+    
+}
